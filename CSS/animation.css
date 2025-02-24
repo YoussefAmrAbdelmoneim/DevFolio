@@ -1,0 +1,53 @@
+.span-font::after {
+    content: "";
+    animation: type 25s infinite;
+}
+
+@keyframes type {
+    0% { content: "D|"; }
+    2% { content: "De|"; }
+    4% { content: "Des|"; }
+    6% { content: "Desi|"; }
+    8% { content: "Desig|"; }
+    10% { content: "Designer|"; }
+    15% { content: "Designer|"; }
+    18% { content: "Designe|"; }
+    20% { content: "Design|"; }
+    22% { content: "Desig|"; }
+    24% { content: "Desi|"; }
+    26% { content: "Des|"; }
+    28% { content: "De|"; }
+    31% { content: "Dev|"; }
+    34% { content: "Deve|"; }
+    37% { content: "Develo|"; }
+    40% { content: "Developer|"; }
+    45% { content: "Developer|"; }
+    48% { content: "Develope|"; }
+    50% { content: "Develo|"; }
+    52% { content: "Devel|"; }
+    54% { content: "Deve|"; }
+    56% { content: "Dev|"; }
+    58% { content: "De|"; }
+    60% { content: "|"; }
+    62% { content: "F|"; }
+    64% { content: "Fr|"; }
+    66% { content: "Free|"; }
+    68% { content: "Freel|"; }
+    70% { content: "Freela|"; }
+    72% { content: "Freelanc|"; }
+    74% { content: "Freelancer|"; }
+    79% { content: "Freelancer|"; }
+    82% { content: "Freelance|"; }
+    84% { content: "Freelanc|"; }
+    86% { content: "Freelan|"; }
+    88% { content: "Freela|"; }
+    90% { content: "Freel|"; }
+    92% { content: "|"; }
+    94% { content: "P|"; }
+    95% { content: "Pho|"; }
+    96% { content: "Phot|"; }
+    97% { content: "Photographer|"; }
+    98% { content: "Photograp|"; }
+    99% { content: "Photo|"; }
+    100%{content:"|";}
+    }
